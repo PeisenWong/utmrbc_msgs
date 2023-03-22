@@ -1,0 +1,9 @@
+int32 speed
+int32 pointx
+int32 pointy
+int32 pointz
+int32 x_y
+int32 mag
+int32 pointno
+int32 start
+int32 total
