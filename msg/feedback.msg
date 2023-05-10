@@ -1,0 +1,5 @@
+int32 faulhaber_enc
+float32 Odrive_enc
+int32 odrive_reached
+int32 faulhaber_reached
+int32 pp_reached

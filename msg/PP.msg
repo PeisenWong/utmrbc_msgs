@@ -1,9 +1,10 @@
-int32 speed
-int32 pointx
-int32 pointy
-int32 pointz
-int32 x_y
-int32 mag
+float32 speed
+float32 pointx
+float32 pointy
+float32 pointz
+float32 x_y
+float32 pointLock
+float32 crv_radius
 int32 pointno
 int32 start
 int32 total

@@ -1,2 +1,2 @@
 int32 pin
-bool signal
+int32 signal

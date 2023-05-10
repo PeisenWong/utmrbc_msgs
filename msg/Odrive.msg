@@ -1,0 +1,10 @@
+int32 id
+float32 turn_count
+float32 accel_lim
+float32 decel_lim
+float32 vel_lim
+float32 pos_gain
+float32 vel_gain
+float32 vel_integrator_gain
+int32 control
+float32 velocity

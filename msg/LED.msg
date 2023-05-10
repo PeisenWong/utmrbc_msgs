@@ -1,2 +1,2 @@
 int32 led
-bool signal
+int32 signal

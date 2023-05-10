@@ -13,6 +13,12 @@ add_message_files(
   HSPM.msg
   Ins.msg
   rns_nav.msg
+  Odrive.msg
+  VESC.msg
+  PP.msg
+  FB.msg
+  feedback.msg
+  PID.msg
 ) 
 
 generate_messages(
